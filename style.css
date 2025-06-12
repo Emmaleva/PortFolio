@@ -5,6 +5,9 @@ body{
     background:  linear-gradient(rgb(117, 233, 217),rgb(117, 250, 117));
     animation: gradientShift 20s ease infinite;
 }
+#bg_main{
+    background: rgb(117, 233, 217);
+}
 head{
     background-color: red;
 }
